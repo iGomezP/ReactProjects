@@ -1,7 +1,7 @@
 module.exports = {
   reactStrictMode: true,
   env: {
-    backendURL: 'http://localhost:4000',
-    frontendURL: 'http://localhost:3000'
+    backendURL: 'https://node-send-serv-vakaz.herokuapp.com',
+    frontendURL: 'https://node-send-cliente-pi.vercel.app'
   }
 }
